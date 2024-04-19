@@ -1,3 +1,7 @@
+![logo](https://github.com/Skysweta/Skysweta/blob/main/Banner%20Sky.png)
+---
+[![](https://visitcount.itsvg.in/api?id=Skysweta&icon=6&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 • Interested in Web Development and Competitive Coding.<br> • I specialize in creating outstanding frontend webpages, perfectly aligned with powerful backend systems to ensure smooth, scalable, and engaging user experiences.<br> • Contact me on swetakumari0363@gmail.com
 
@@ -21,7 +25,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Skysweta&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skysweta&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Skysweta&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
